@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anzult-Win-UI", "Anzult-Win-UI\Anzult-Win-UI.csproj", "{17D3D801-C0A4-47BC-B330-4B25D477B6F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anzult-Win-Library", "Anzult-Win-Library\Anzult-Win-Library.csproj", "{B4A18257-BAE7-4F90-8CA6-0633D1CFF779}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{17D3D801-C0A4-47BC-B330-4B25D477B6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17D3D801-C0A4-47BC-B330-4B25D477B6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17D3D801-C0A4-47BC-B330-4B25D477B6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A18257-BAE7-4F90-8CA6-0633D1CFF779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A18257-BAE7-4F90-8CA6-0633D1CFF779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A18257-BAE7-4F90-8CA6-0633D1CFF779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A18257-BAE7-4F90-8CA6-0633D1CFF779}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
